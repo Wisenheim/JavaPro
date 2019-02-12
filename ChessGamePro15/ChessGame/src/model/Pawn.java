@@ -17,7 +17,6 @@ public class Pawn extends Pawns {
 	
 	@Override
 	public String toString() {
-		
 		return this.getcolor().equals("black") ? "p" : "P";
 	}
 	
