@@ -1,5 +1,12 @@
 package model;
 
+
+/**
+ * 
+ * 
+ * @author Yardi
+ *
+ */
 public class Bishop extends Pawns{
 	
 	public Bishop(String color){
